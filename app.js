@@ -7,7 +7,7 @@ const msg = process.env.APP_MSG || 'default message...'
 console.log('port:'+port);
 
 app.get('/', (req, res) => {
-	  res.send(`hello World! version 2, received:${msg}`);
+	  res.send(`hello World! version 3, received:${msg}`);
 })
 
 app.get('/healthz', (req, res) => {
