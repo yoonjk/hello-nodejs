@@ -21,4 +21,3 @@ https://api.na46a.prod.ole.redhat.com:6443/apis/build.openshift.io/v1/namespaces
 
 <img src="/img/02.Add-payload-URL.png" width="50%" height="50%" title="Add payload URL in github" alt="Add payload"></img>
 
-
